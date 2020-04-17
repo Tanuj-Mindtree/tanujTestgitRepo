@@ -5,3 +5,4 @@ this is new msg from github
 this is a sec lmsg from git
 merge issue 
 7th line
+8th line
